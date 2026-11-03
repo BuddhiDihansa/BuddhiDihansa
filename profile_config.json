@@ -1,0 +1,20 @@
+
+{
+  "username": "BuddhiDihansa",
+  "profile_repository": "BuddhiDihansa/BuddhiDihansa",
+  "max_projects": 6,
+  "exclude_forks": true,
+  "exclude_archived": true,
+  "exclude_empty_repositories": true,
+  "exclude_repositories": [
+    "BuddhiDihansa/BuddhiDihansa",
+    "BuddhiDihansa/github-profile-automation"
+  ],
+  "featured_repositories": [
+    "BuddhiDihansa/askly",
+    "BuddhiDihansa/diseases-rag-chatbot-DS205.3-coursework",
+    "BuddhiDihansa/ForgeSight",
+    "BuddhiDihansa/churn-project",
+    "BuddhiDihansa/Youtube-Dashboard"
+  ]
+}
