@@ -1,136 +1,177 @@
-
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Buddhi Dihansa — AI and Machine Learning" />
-</div>
+
+<img src="assets/animated-banner.gif" alt="Buddhi Dihansa — Data Science, AI Engineering and Cloud" width="100%" />
 
 <br/>
 
-<table>
-  <tr>
-    <td width="190" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/BuddhiDihansa/dihansawork/main/src/assets/profile.jpg" width="160" alt="Buddhi Dihansa" />
-    </td>
-    <td valign="middle">
-      <h1>Hi, I'm Buddhi Dihansa</h1>
-      <h3>Data Science Undergraduate | Aspiring AI Engineer</h3>
-      <p>
-        I’m a BSc (Hons) Data Science undergraduate at
-        <strong>NSBM Green University</strong>, Sri Lanka.
-        I enjoy building practical intelligent systems and exploring how
-        machine learning and generative AI can solve real-world problems.
-      </p>
-      <p>
-        <a href="https://www.dihansa.dev"><img src="https://img.shields.io/badge/Portfolio-dihansa.dev-42F59A?style=for-the-badge&logo=googlechrome&logoColor=07130F" alt="Portfolio" /></a>
-        <a href="https://github.com/BuddhiDihansa"><img src="https://img.shields.io/badge/GitHub-BuddhiDihansa-111A16?style=for-the-badge&logo=github&logoColor=42F59A" alt="GitHub" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<a href="https://www.dihansa.dev"><img src="https://img.shields.io/badge/PORTFOLIO-42F59A?style=for-the-badge&logo=vercel&logoColor=07130F" /></a>
+<a href="https://github.com/BuddhiDihansa"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
----
-
-## About Me
-
-- 🎓 BSc (Hons) Data Science undergraduate at NSBM Green University.
-- 🤖 Focused on developing my skills in AI engineering and machine learning.
-- 🧠 Interested in Deep Learning, Computer Vision, Generative AI, RAG and Agentic Systems.
-- ⚙️ Exploring model evaluation, deployment and MLOps practices.
-- 🌱 I value continuous learning, practical experimentation and clean, understandable code.
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BuddhiDihansa/askly">ASKLY — Personalized Learning Assistant</a></h3>
-      <p>An AI-powered learning assistant combining document-based RAG, source citations, quizzes, study planning and learning progress features.</p>
-      <p><sub>FastAPI · MongoDB · Groq · Sentence Transformers · BM25 · Next.js · TypeScript</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BuddhiDihansa/diseases-rag-chatbot-DS205.3-coursework">MediGuide LK — Medical RAG Assistant</a></h3>
-      <p>Academic group project exploring hybrid retrieval, vector search, reranking and multi-agent reasoning for medical information assistance.</p>
-      <p><sub>Python · FastAPI · FAISS · BM25 · Embeddings · Next.js</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BuddhiDihansa/ForgeSight">ForgeSight — Industrial AI Inspection</a></h3>
-      <p>In-progress project exploring computer vision for industrial quality inspection and product defect detection.</p>
-      <p><sub>Computer Vision · Deep Learning · Python</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BuddhiDihansa/churn-project">Customer Churn Prediction</a></h3>
-      <p>Machine learning classification project with an interactive dashboard and SHAP-based model explainability.</p>
-      <p><sub>Python · Pandas · scikit-learn · SHAP · Streamlit</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BuddhiDihansa/Youtube-Dashboard">YouTube Analytics Dashboard</a></h3>
-      <p>Interactive dashboard for exploring channel performance, engagement metrics and content trends.</p>
-      <p><sub>Python · Streamlit · Pandas · Plotly</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://www.dihansa.dev">Personal Portfolio</a></h3>
-      <p>My portfolio website showcasing projects, learning journey and technical interests.</p>
-      <p><sub>React · TypeScript · TanStack Start · Tailwind CSS · Supabase</sub></p>
-    </td>
-  </tr>
-</table>
-
-## Technologies & Tools
-
-### Programming & Data
-<p>
-  <img src="https://img.shields.io/badge/Python-42F59A?style=flat-square&logo=python&logoColor=07130F" />
-  <img src="https://img.shields.io/badge/Java-42F59A?style=flat-square&logo=openjdk&logoColor=07130F" />
-  <img src="https://img.shields.io/badge/R-42F59A?style=flat-square&logo=r&logoColor=07130F" />
-  <img src="https://img.shields.io/badge/SQL-42F59A?style=flat-square&logo=postgresql&logoColor=07130F" />
-  <img src="https://img.shields.io/badge/Pandas-42F59A?style=flat-square&logo=pandas&logoColor=07130F" />
-  <img src="https://img.shields.io/badge/NumPy-42F59A?style=flat-square&logo=numpy&logoColor=07130F" />
-</p>
-
-### AI, Machine Learning & Backend
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-42F59A?style=flat-square&logo=scikitlearn&logoColor=07130F" />
-  <img src="https://img.shields.io/badge/FastAPI-42F59A?style=flat-square&logo=fastapi&logoColor=07130F" />
-  <img src="https://img.shields.io/badge/MongoDB-42F59A?style=flat-square&logo=mongodb&logoColor=07130F" />
-  <img src="https://img.shields.io/badge/FAISS-42F59A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Streamlit-42F59A?style=flat-square&logo=streamlit&logoColor=07130F" />
-  <img src="https://img.shields.io/badge/Plotly-42F59A?style=flat-square&logo=plotly&logoColor=07130F" />
-</p>
-
-### Web & Development Tools
-<p>
-  <img src="https://img.shields.io/badge/React-45D9E6?style=flat-square&logo=react&logoColor=07130F" />
-  <img src="https://img.shields.io/badge/Next.js-45D9E6?style=flat-square&logo=nextdotjs&logoColor=07130F" />
-  <img src="https://img.shields.io/badge/TypeScript-45D9E6?style=flat-square&logo=typescript&logoColor=07130F" />
-  <img src="https://img.shields.io/badge/Git-45D9E6?style=flat-square&logo=git&logoColor=07130F" />
-  <img src="https://img.shields.io/badge/Docker-45D9E6?style=flat-square&logo=docker&logoColor=07130F" />
-</p>
-
-## Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-learning-173B2B?style=flat-square&logo=pytorch&logoColor=42F59A" />
-  <img src="https://img.shields.io/badge/MLflow-learning-173B2B?style=flat-square" />
-  <img src="https://img.shields.io/badge/DVC-learning-173B2B?style=flat-square" />
-  <img src="https://img.shields.io/badge/MLOps-learning-173B2B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud-learning-173B2B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agentic_AI-learning-173B2B?style=flat-square" />
-</p>
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BuddhiDihansa&show_icons=true&hide_border=true&bg_color=07130F&title_color=42F59A&icon_color=45D9E6&text_color=E5F5EC" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhiDihansa&layout=compact&hide_border=true&bg_color=07130F&title_color=42F59A&text_color=E5F5EC" height="165" alt="Top languages" />
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="170" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/BuddhiDihansa/dihansawork/main/src/assets/profile.jpg" width="145" style="border-radius:50%;" alt="Buddhi Dihansa profile photo"/>
+</td>
+<td valign="middle">
+
+# Hi, I'm Buddhi 👋
+
+**Data Science Undergraduate · Aspiring AI Engineer**
+
+I’m a third-year BSc (Hons) Data Science undergraduate at **NSBM Green University, Sri Lanka**, interested in building practical AI systems that connect machine learning, LLM applications and cloud technologies.
+
+- Building projects to solve real-world problems
+- Exploring RAG, Agentic AI and computer vision
+- Interested in reliable APIs, deployment and MLOps
+- Learning through experimentation, teamwork and continuous improvement
+
+</td>
+</tr>
+</table>
+
+## `01` — What I'm working towards
+
+```text
+AI Engineering       █████████░  Building and improving
+Machine Learning     ████████░░  Practising and experimenting
+LLM Applications     ████████░░  RAG • Agents • Evaluation
+Cloud & MLOps        ██████░░░░  Learning deployment workflows
+```
+
+## `02` — Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [ASKLY](https://github.com/BuddhiDihansa/askly)
+**Personalized AI Learning Assistant**
+
+A learning-support platform combining document-based hybrid RAG with learning tools such as quizzes, flashcards, study planning and progress tracking.
+
+`FastAPI` `Next.js` `MongoDB` `Groq` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+### [MediGuide LK](https://github.com/BuddhiDihansa/diseases-rag-chatbot-DS205.3-coursework)
+**Medical Information RAG Chatbot**
+
+Academic group project exploring hybrid retrieval and multi-agent reasoning, with retrieval, reasoning and answer-verification components.
+
+`FAISS` `BM25` `FastAPI` `Next.js` `Embeddings`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ForgeSight](https://github.com/BuddhiDihansa/ForgeSight)
+**Industrial Quality Inspection**
+
+An in-progress project concept focused on computer-vision-based quality inspection and anomaly detection.
+
+`Computer Vision` `Deep Learning` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### [Customer Churn Prediction](https://github.com/BuddhiDihansa/churn-project)
+**Explainable Machine Learning**
+
+A customer churn prediction project using a Random Forest model and SHAP-based explanations, with an interactive Streamlit dashboard.
+
+`Scikit-learn` `SHAP` `Pandas` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [YouTube Analytics Dashboard](https://github.com/BuddhiDihansa/Youtube-Dashboard)
+**Interactive Data Analytics**
+
+A dashboard for exploring channel performance, engagement patterns and video-level metrics.
+
+`Python` `Pandas` `Plotly` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### [Personal Portfolio](https://www.dihansa.dev)
+**My work, projects and learning journey**
+
+A personal portfolio built with a modern React-based stack.
+
+`React` `TypeScript` `TanStack Start` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
+
+## `03` — Tech stack
+
 <div align="center">
-  <p><strong>Building, learning and improving — one project at a time.</strong></p>
-  <a href="https://www.dihansa.dev">Visit my portfolio</a> ·
-  <a href="https://github.com/BuddhiDihansa">Explore my repositories</a>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,r,js,ts,html,css,php" />
+
+**AI · Data · Backend**
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,flask,mongodb,postgres,mysql" />
+
+**Frontend · Tools · Cloud**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,git,github,linux,aws" />
+
+</div>
+
+> My toolkit is evolving. The technologies above reflect tools I have used, explored or am actively learning—not equal levels of proficiency.
+
+## `04` — Currently exploring
+
+<div align="center">
+
+![RAG](https://img.shields.io/badge/RAG-0B3D2E?style=flat-square&logo=databricks&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-123D32?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-245B4A?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-173B35?style=flat-square&logo=icloud&logoColor=white)
+
+</div>
+
+## `05` — GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BuddhiDihansa&show_icons=true&hide_border=true&bg_color=07130F&title_color=42F59A&icon_color=45D9E6&text_color=D9F5E7&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhiDihansa&layout=compact&hide_border=true&bg_color=07130F&title_color=42F59A&text_color=D9F5E7" />
+
+<img src="https://streak-stats.demolab.com?user=BuddhiDihansa&hide_border=true&background=07130F&ring=42F59A&fire=45D9E6&currStreakLabel=42F59A&sideLabels=D9F5E7&dates=8CA99A&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
+
+## `06` — Let's connect
+
+I’m happy to connect with fellow students, developers and people working on AI, data science and cloud projects.
+
+<div align="center">
+
+<a href="https://www.dihansa.dev">Website</a> ·
+<a href="https://github.com/BuddhiDihansa">GitHub</a> ·
+<a href="https://www.linkedin.com/">LinkedIn</a>
+
+<br/><br/>
+
+**“Build. Learn. Improve. Repeat.”**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42F59A,100:45D9E6&height=90&section=footer" width="100%" />
+
 </div>
