@@ -12,12 +12,7 @@
 
 ---
 
-<table>
-<tr>
-<td width="170" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/BuddhiDihansa/dihansawork/main/src/assets/profile.jpg" width="145" style="border-radius:50%;" alt="Buddhi Dihansa profile photo"/>
-</td>
-<td valign="middle">
+
 
 # Hi, I'm Buddhi 👋
 
