@@ -14,7 +14,7 @@
 
 
 
-# Hi, I'm Buddhi 👋
+# Hi, I'm Dihansa 👋
 
 **Data Science Undergraduate · Aspiring AI Engineer**
 
