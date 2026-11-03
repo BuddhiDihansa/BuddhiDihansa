@@ -3,6 +3,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07130F,45:145C3B,100:45D9E6&height=220&section=header&text=BUDDHI%20DIHANSA&fontSize=48&fontColor=E9FFF2&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20AI%20ENGINEERING%20%7C%20CLOUD&descAlignY=58&descSize=17&animation=twinkling" width="100%" alt="Animated green technology banner"/>
 
+
+<a href="https://www.linkedin.com/in/your-username/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="https://www.dihansa.dev">
 <img src="https://img.shields.io/badge/PORTFOLIO-42F59A?style=for-the-badge&logo=vercel&logoColor=07130F"/>
 </a>
