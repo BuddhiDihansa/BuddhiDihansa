@@ -120,7 +120,7 @@ A personal portfolio built with a modern React-based stack.
 <!-- AUTO-PROJECTS:START -->
 | Project | Description | Language | Last Updated |
 |---|---|---|---|
-| [EVISION-360](https://github.com/BuddhiDihansa/EVISION-360) | Project details coming soon. | Jupyter Notebook | 2026-11-07 |
+| [EVISION-360](https://github.com/BuddhiDihansa/EVISION-360) | Project details coming soon. | Jupyter Notebook | 2026-11-08 |
 | [dihansawork](https://github.com/BuddhiDihansa/dihansawork) | Project details coming soon. | TypeScript | 2026-10-05 |
 | [Lanka-Explores](https://github.com/BuddhiDihansa/Lanka-Explores) | Project details coming soon. | TypeScript | 2026-09-25 |
 | [DS-2Y-R-Project-Group-D](https://github.com/BuddhiDihansa/DS-2Y-R-Project-Group-D) | This repository contains our R programming project for the DS202.3 module. It includes data clean... | HTML | 2026-02-14 |
